@@ -4,4 +4,3 @@
 - Kaggle courses --> in progress
 - 👀 I’m interested in pivoting towards Data Science and ML
 - 🌱 I’m currently learning ML algorithms and DS 
-- 
