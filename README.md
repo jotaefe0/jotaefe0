@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jotaefe0
+- 👋 Hi, I’m Juan Francisco from Argentina
 - I'm a Chemical Engineer with some knowdlege on Python, SQL and JS
 - CS50 ✔️
 - Kaggle courses --> in progress
