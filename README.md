@@ -1,5 +1,5 @@
 👋 Hi, I’m Juan Francisco from Argentina
-- I'm a Chemical Engineer with some knowdlege on Python, SQL and JS
+- I'm a Chemical Engineer that uses Python, SQL and JS
 - I like to find and solve real life problems
 
 #### Courses
