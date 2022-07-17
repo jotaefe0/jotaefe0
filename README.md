@@ -5,7 +5,7 @@
 #### Courses
 - CS50 ✔️
 - UCSanDiegoX-DSE200x-Python-for-Data-Science
-- MIT - Applied data scien with pyhon 3/5 (Coursera)
+- MIT - Applied data science with python 3/5 (Coursera)
 - Kaggle courses 
 
 #### Learning
