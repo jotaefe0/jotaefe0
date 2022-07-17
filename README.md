@@ -5,7 +5,8 @@
 #### Courses
 - CS50 ✔️
 - UCSanDiegoX-DSE200x-Python-for-Data-Science
-- Kaggle courses --> in progress
+- MIT - Applied data scien with pyhon 3/5 (Coursera)
+- Kaggle courses 
 
 #### Learning
 - 👀 I’m interested in pivoting towards Data Science and ML
