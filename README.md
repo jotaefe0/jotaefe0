@@ -13,7 +13,7 @@ About Me
 * Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch
 * Deep Learning: CNNs, RNNs, Autoencoders, GANs
 * MLOps: Airflow, Docker
-* Clud: AWS
+* Cloud: AWS
 
 📖Certifications
 * Deep Learning Specialization
